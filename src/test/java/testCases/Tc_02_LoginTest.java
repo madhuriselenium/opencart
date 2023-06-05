@@ -7,7 +7,7 @@ import pageObjects.Myaccountpage;
 
 import pageObjects.Homepage;
 import pageObjects.LoginPage;
-
+//this is login test 
 public class Tc_02_LoginTest extends BaseTest{
 	@Test(groups={"Sanity","Master"})
 	public void test_login()
