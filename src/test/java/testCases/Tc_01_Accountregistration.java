@@ -1,12 +1,13 @@
 package testCases;
 
 import org.testng.Assert;
+
 import org.testng.annotations.Test;
 
 import testbase.BaseTest;
 import pageObjects.Homepage;
 import pageObjects.Accountregistrationpage;
-
+//this is accountregistration test
 public class  Tc_01_Accountregistration extends BaseTest {
 	
 	@Test(groups={"Regression","Master"})
