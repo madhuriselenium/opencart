@@ -1,0 +1,55 @@
+18:53:16.702 [main] INFO  testCases.Tc_02_LoginTest - finished Tc_002_LoginTest....
+18:53:16.713 [main] INFO  testCases.Tc_02_LoginTest - closing the app
+18:53:38.550 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - launching chrome browser
+18:53:40.663 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:53:40.829 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:53:42.339 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:53:42.410 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - closing the app
+18:53:42.544 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:53:43.008 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - closing the app
+18:55:08.101 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - launching chrome browser
+18:55:10.456 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:55:10.644 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:55:11.962 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:55:12.093 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:55:14.627 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - finished Tc_002_LoginTest....
+18:55:14.627 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - closing the app
+18:55:20.806 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - closing the app
+18:56:32.066 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:56:32.060 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - launching the browser
+18:56:32.291 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:56:32.291 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - starting Tc_002_LoginTest.... 
+18:56:43.425 [TestNG-tests-1] INFO  testCases.Tc_02_LoginTest - closing the app
+18:56:53.459 [TestNG-tests-2] INFO  testCases.Tc_02_LoginTest - closing the app
+18:59:20.222 [TestNG-tests-1] INFO  testCases.Tc_01_Accountregistration - launching the browser
+18:59:20.224 [TestNG-tests-2] INFO  testCases.Tc_01_Accountregistration - launching the browser
+18:59:20.378 [TestNG-tests-1] INFO  testCases.Tc_01_Accountregistration - ******Starting Tc_01_Accountregistration ****** 
+18:59:20.378 [TestNG-tests-2] INFO  testCases.Tc_01_Accountregistration - ******Starting Tc_01_Accountregistration ****** 
+18:59:20.713 [TestNG-tests-1] INFO  testCases.Tc_01_Accountregistration - Clicked on myacc link
+18:59:20.748 [TestNG-tests-2] INFO  testCases.Tc_01_Accountregistration - Clicked on myacc link
+18:59:30.838 [TestNG-tests-1] INFO  testCases.Tc_01_Accountregistration - closing the app
+18:59:40.832 [TestNG-tests-2] INFO  testCases.Tc_01_Accountregistration - closing the app
+19:00:18.796 [main] INFO  testCases.Tc_01_Accountregistration - launching the browser
+19:00:18.944 [main] INFO  testCases.Tc_01_Accountregistration - ******Starting Tc_01_Accountregistration ****** 
+19:00:19.252 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on myacc link
+19:00:19.621 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on register
+19:00:19.623 [main] INFO  testCases.Tc_01_Accountregistration - Providing customer details
+19:00:22.652 [main] INFO  testCases.Tc_01_Accountregistration - clicked on continue
+19:00:22.686 [main] INFO  testCases.Tc_01_Accountregistration - test passed
+19:00:22.687 [main] INFO  testCases.Tc_01_Accountregistration - *********finished Tc_01_Accountregistration**************** 
+19:00:22.690 [main] INFO  testCases.Tc_01_Accountregistration - closing the app
+19:00:24.302 [main] INFO  testCases.Tc_01_Accountregistration - launching the browser
+19:00:24.441 [main] INFO  testCases.Tc_01_Accountregistration - ******Starting Tc_01_Accountregistration ****** 
+19:00:24.692 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on myacc link
+19:00:24.994 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on register
+19:00:24.995 [main] INFO  testCases.Tc_01_Accountregistration - Providing customer details
+19:00:27.808 [main] INFO  testCases.Tc_01_Accountregistration - clicked on continue
+19:00:27.855 [main] INFO  testCases.Tc_01_Accountregistration - test passed
+19:00:27.855 [main] INFO  testCases.Tc_01_Accountregistration - *********finished Tc_01_Accountregistration**************** 
+19:00:27.858 [main] INFO  testCases.Tc_01_Accountregistration - closing the app
+19:00:56.915 [main] INFO  testCases.Tc_01_Accountregistration - launching chrome browser
+19:01:00.125 [main] INFO  testCases.Tc_01_Accountregistration - launching the browser
+19:01:00.264 [main] INFO  testCases.Tc_01_Accountregistration - ******Starting Tc_01_Accountregistration ****** 
+19:01:00.561 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on myacc link
+19:01:01.085 [main] INFO  testCases.Tc_01_Accountregistration - Clicked on register
+19:01:01.093 [main] INFO  testCases.Tc_01_Accountregistration - Providing customer details
